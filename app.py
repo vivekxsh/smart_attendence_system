@@ -26,3 +26,6 @@ else:
 df=pd.read_csv("Attendance/Attendance_" + date + ".csv")
 
 st.dataframe(df.style.highlight_max(axis=0))
+
+# to check attendence run 
+# streamlit run app.py
