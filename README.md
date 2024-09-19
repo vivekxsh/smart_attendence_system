@@ -2,7 +2,7 @@
 ## Python Programming Project
 This Python-based machine learning project utilizes facial recognition technology to streamline attendance tracking by automatically identifying individuals.
 
-### Libraries Used:
+# Libraries Used:
 
 &#9675; Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.
 
